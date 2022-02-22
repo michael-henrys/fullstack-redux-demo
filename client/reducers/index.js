@@ -1,7 +1,7 @@
 import { combineReducers } from 'redux'
 
-// import stuff from './stuff'
+import counters from './counters'
 
 export default combineReducers({
-  // stuff
+  counters
 })
